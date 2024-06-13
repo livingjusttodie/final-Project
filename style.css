@@ -1,0 +1,21 @@
+body {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+canvas {
+  border: 2px solid black;
+}
+
+div.b {
+  text-align: left;
+}
+
+#pauseButton {
+  position: absolute;
+  left: 400px; /* Adjust as needed for spacing */
+  top: 400px;  /* Adjust as needed for vertical position */
+}
